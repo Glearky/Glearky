@@ -1,5 +1,5 @@
 Only private repositories, my friends are too good for you !
 
-![Les Stats GitHub de Glearky](https://github-readme-stats.vercel.app/api?username=glearky&show_icons=true&theme=dracula)
+![](https://raw.githubusercontent.com/Glearky/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glearky&layout=compact&theme=dracula)](https://github.com/glearky/github-readme-stats)
+![](https://raw.githubusercontent.com/Glearky/github-stats/master/generated/languages.svg#gh-dark-mode-only)
